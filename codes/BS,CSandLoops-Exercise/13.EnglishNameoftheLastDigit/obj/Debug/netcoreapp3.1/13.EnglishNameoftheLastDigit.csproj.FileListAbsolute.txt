@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\bin\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\bin\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\bin\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\bin\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\bin\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\bin\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\obj\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\obj\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\obj\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\obj\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\obj\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\obj\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\obj\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\13.EnglishNameoftheLastDigit\obj\Debug\netcoreapp3.1\13.EnglishNameoftheLastDigit.genruntimeconfig.cache

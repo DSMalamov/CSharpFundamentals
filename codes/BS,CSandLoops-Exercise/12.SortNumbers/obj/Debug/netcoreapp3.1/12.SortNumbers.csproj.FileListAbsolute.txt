@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\bin\Debug\netcoreapp3.1\12.SortNumbers.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\bin\Debug\netcoreapp3.1\12.SortNumbers.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\bin\Debug\netcoreapp3.1\12.SortNumbers.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\bin\Debug\netcoreapp3.1\12.SortNumbers.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\bin\Debug\netcoreapp3.1\12.SortNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\bin\Debug\netcoreapp3.1\12.SortNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\obj\Debug\netcoreapp3.1\12.SortNumbers.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\obj\Debug\netcoreapp3.1\12.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\obj\Debug\netcoreapp3.1\12.SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\obj\Debug\netcoreapp3.1\12.SortNumbers.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\obj\Debug\netcoreapp3.1\12.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\obj\Debug\netcoreapp3.1\12.SortNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\obj\Debug\netcoreapp3.1\12.SortNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\12.SortNumbers\obj\Debug\netcoreapp3.1\12.SortNumbers.genruntimeconfig.cache

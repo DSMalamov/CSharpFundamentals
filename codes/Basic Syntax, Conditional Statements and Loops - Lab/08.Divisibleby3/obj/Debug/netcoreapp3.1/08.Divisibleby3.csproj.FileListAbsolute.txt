@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\bin\Debug\netcoreapp3.1\08.Divisibleby3.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\bin\Debug\netcoreapp3.1\08.Divisibleby3.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\bin\Debug\netcoreapp3.1\08.Divisibleby3.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\bin\Debug\netcoreapp3.1\08.Divisibleby3.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\bin\Debug\netcoreapp3.1\08.Divisibleby3.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\bin\Debug\netcoreapp3.1\08.Divisibleby3.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\obj\Debug\netcoreapp3.1\08.Divisibleby3.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\obj\Debug\netcoreapp3.1\08.Divisibleby3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\obj\Debug\netcoreapp3.1\08.Divisibleby3.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\obj\Debug\netcoreapp3.1\08.Divisibleby3.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\obj\Debug\netcoreapp3.1\08.Divisibleby3.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\obj\Debug\netcoreapp3.1\08.Divisibleby3.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\obj\Debug\netcoreapp3.1\08.Divisibleby3.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ee\obj\Debug\netcoreapp3.1\08.Divisibleby3.genruntimeconfig.cache

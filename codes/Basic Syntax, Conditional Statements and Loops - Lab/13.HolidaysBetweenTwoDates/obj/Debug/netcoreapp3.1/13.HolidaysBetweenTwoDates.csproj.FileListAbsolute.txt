@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\ffff\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.genruntimeconfig.cache

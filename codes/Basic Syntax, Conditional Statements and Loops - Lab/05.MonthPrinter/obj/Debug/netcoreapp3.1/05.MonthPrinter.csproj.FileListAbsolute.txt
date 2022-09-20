@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\bin\Debug\netcoreapp3.1\05.MonthPrinter.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\bin\Debug\netcoreapp3.1\05.MonthPrinter.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\bin\Debug\netcoreapp3.1\05.MonthPrinter.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\bin\Debug\netcoreapp3.1\05.MonthPrinter.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\bin\Debug\netcoreapp3.1\05.MonthPrinter.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\bin\Debug\netcoreapp3.1\05.MonthPrinter.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\obj\Debug\netcoreapp3.1\05.MonthPrinter.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\obj\Debug\netcoreapp3.1\05.MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\obj\Debug\netcoreapp3.1\05.MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\obj\Debug\netcoreapp3.1\05.MonthPrinter.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\obj\Debug\netcoreapp3.1\05.MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\obj\Debug\netcoreapp3.1\05.MonthPrinter.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\obj\Debug\netcoreapp3.1\05.MonthPrinter.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\s\obj\Debug\netcoreapp3.1\05.MonthPrinter.genruntimeconfig.cache

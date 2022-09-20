@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\bin\Debug\netcoreapp3.1\09.SumofOddNumbers.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\bin\Debug\netcoreapp3.1\09.SumofOddNumbers.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\bin\Debug\netcoreapp3.1\09.SumofOddNumbers.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\bin\Debug\netcoreapp3.1\09.SumofOddNumbers.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\bin\Debug\netcoreapp3.1\09.SumofOddNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\bin\Debug\netcoreapp3.1\09.SumofOddNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\obj\Debug\netcoreapp3.1\09.SumofOddNumbers.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\obj\Debug\netcoreapp3.1\09.SumofOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\obj\Debug\netcoreapp3.1\09.SumofOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\obj\Debug\netcoreapp3.1\09.SumofOddNumbers.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\obj\Debug\netcoreapp3.1\09.SumofOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\obj\Debug\netcoreapp3.1\09.SumofOddNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\obj\Debug\netcoreapp3.1\09.SumofOddNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\dd\obj\Debug\netcoreapp3.1\09.SumofOddNumbers.genruntimeconfig.cache

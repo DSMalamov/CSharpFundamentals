@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\bin\Debug\netcoreapp3.1\16.Messages.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\bin\Debug\netcoreapp3.1\16.Messages.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\bin\Debug\netcoreapp3.1\16.Messages.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\bin\Debug\netcoreapp3.1\16.Messages.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\bin\Debug\netcoreapp3.1\16.Messages.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\bin\Debug\netcoreapp3.1\16.Messages.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\obj\Debug\netcoreapp3.1\16.Messages.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\obj\Debug\netcoreapp3.1\16.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\obj\Debug\netcoreapp3.1\16.Messages.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\obj\Debug\netcoreapp3.1\16.Messages.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\obj\Debug\netcoreapp3.1\16.Messages.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\obj\Debug\netcoreapp3.1\16.Messages.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\obj\Debug\netcoreapp3.1\16.Messages.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\16.Messages\obj\Debug\netcoreapp3.1\16.Messages.genruntimeconfig.cache

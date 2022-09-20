@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\bin\Debug\netcoreapp3.1\03.PorF.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\bin\Debug\netcoreapp3.1\03.PorF.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\bin\Debug\netcoreapp3.1\03.PorF.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\bin\Debug\netcoreapp3.1\03.PorF.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\bin\Debug\netcoreapp3.1\03.PorF.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\bin\Debug\netcoreapp3.1\03.PorF.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\obj\Debug\netcoreapp3.1\03.PorF.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\obj\Debug\netcoreapp3.1\03.PorF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\obj\Debug\netcoreapp3.1\03.PorF.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\obj\Debug\netcoreapp3.1\03.PorF.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\obj\Debug\netcoreapp3.1\03.PorF.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\obj\Debug\netcoreapp3.1\03.PorF.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\obj\Debug\netcoreapp3.1\03.PorF.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PorF\obj\Debug\netcoreapp3.1\03.PorF.genruntimeconfig.cache

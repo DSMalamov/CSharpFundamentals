@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\bin\Debug\netcoreapp3.1\07.TheatrePromotion.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\bin\Debug\netcoreapp3.1\07.TheatrePromotion.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\bin\Debug\netcoreapp3.1\07.TheatrePromotion.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\bin\Debug\netcoreapp3.1\07.TheatrePromotion.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\bin\Debug\netcoreapp3.1\07.TheatrePromotion.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\bin\Debug\netcoreapp3.1\07.TheatrePromotion.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\obj\Debug\netcoreapp3.1\07.TheatrePromotion.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\obj\Debug\netcoreapp3.1\07.TheatrePromotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\obj\Debug\netcoreapp3.1\07.TheatrePromotion.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\obj\Debug\netcoreapp3.1\07.TheatrePromotion.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\obj\Debug\netcoreapp3.1\07.TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\obj\Debug\netcoreapp3.1\07.TheatrePromotion.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\obj\Debug\netcoreapp3.1\07.TheatrePromotion.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\k\obj\Debug\netcoreapp3.1\07.TheatrePromotion.genruntimeconfig.cache

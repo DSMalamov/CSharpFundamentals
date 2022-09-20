@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\bin\Debug\netcoreapp3.1\08.TriangleofNumbers.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\bin\Debug\netcoreapp3.1\08.TriangleofNumbers.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\bin\Debug\netcoreapp3.1\08.TriangleofNumbers.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\bin\Debug\netcoreapp3.1\08.TriangleofNumbers.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\bin\Debug\netcoreapp3.1\08.TriangleofNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\bin\Debug\netcoreapp3.1\08.TriangleofNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\obj\Debug\netcoreapp3.1\08.TriangleofNumbers.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\obj\Debug\netcoreapp3.1\08.TriangleofNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\obj\Debug\netcoreapp3.1\08.TriangleofNumbers.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\obj\Debug\netcoreapp3.1\08.TriangleofNumbers.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\obj\Debug\netcoreapp3.1\08.TriangleofNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\obj\Debug\netcoreapp3.1\08.TriangleofNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\obj\Debug\netcoreapp3.1\08.TriangleofNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\08.TriangleofNumbers\obj\Debug\netcoreapp3.1\08.TriangleofNumbers.genruntimeconfig.cache

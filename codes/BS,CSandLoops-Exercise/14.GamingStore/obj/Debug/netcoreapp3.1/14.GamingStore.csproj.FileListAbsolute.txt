@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\bin\Debug\netcoreapp3.1\14.GamingStore.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\bin\Debug\netcoreapp3.1\14.GamingStore.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\bin\Debug\netcoreapp3.1\14.GamingStore.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\bin\Debug\netcoreapp3.1\14.GamingStore.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\bin\Debug\netcoreapp3.1\14.GamingStore.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\bin\Debug\netcoreapp3.1\14.GamingStore.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\obj\Debug\netcoreapp3.1\14.GamingStore.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\obj\Debug\netcoreapp3.1\14.GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\obj\Debug\netcoreapp3.1\14.GamingStore.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\obj\Debug\netcoreapp3.1\14.GamingStore.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\obj\Debug\netcoreapp3.1\14.GamingStore.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\obj\Debug\netcoreapp3.1\14.GamingStore.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\obj\Debug\netcoreapp3.1\14.GamingStore.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\BS,CSandLoops-Exercise\14.GamingStore\obj\Debug\netcoreapp3.1\14.GamingStore.genruntimeconfig.cache

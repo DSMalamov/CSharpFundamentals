@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\bin\Debug\netcoreapp3.1\06.ForeignLanguages.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\bin\Debug\netcoreapp3.1\06.ForeignLanguages.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\bin\Debug\netcoreapp3.1\06.ForeignLanguages.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\bin\Debug\netcoreapp3.1\06.ForeignLanguages.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\bin\Debug\netcoreapp3.1\06.ForeignLanguages.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\bin\Debug\netcoreapp3.1\06.ForeignLanguages.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\obj\Debug\netcoreapp3.1\06.ForeignLanguages.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\obj\Debug\netcoreapp3.1\06.ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\obj\Debug\netcoreapp3.1\06.ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\obj\Debug\netcoreapp3.1\06.ForeignLanguages.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\obj\Debug\netcoreapp3.1\06.ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\obj\Debug\netcoreapp3.1\06.ForeignLanguages.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\obj\Debug\netcoreapp3.1\06.ForeignLanguages.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\d\obj\Debug\netcoreapp3.1\06.ForeignLanguages.genruntimeconfig.cache
