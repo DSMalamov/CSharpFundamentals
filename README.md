@@ -1,2 +1,2 @@
 # Programming-Fundamentals-with-C-
-Programming Fundamentals with C# - септември 2022 - Solved tasks
+Programming Fundamentals with C# - september 2022 - Solved tasks
