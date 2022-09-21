@@ -18,7 +18,6 @@ namespace _05.SpecialNumbers
                     int currDigit = curNum % 10;
                     sumOfDigits += currDigit;
                     curNum /= 10;
-
                 }
 
                 if (sumOfDigits == 5 || sumOfDigits == 7 || sumOfDigits == 11)
@@ -29,9 +28,8 @@ namespace _05.SpecialNumbers
                 {
                     Console.WriteLine($"{i} -> False");
                 }
-
+                
                 sumOfDigits = 0;
-
             }
         }
     }
