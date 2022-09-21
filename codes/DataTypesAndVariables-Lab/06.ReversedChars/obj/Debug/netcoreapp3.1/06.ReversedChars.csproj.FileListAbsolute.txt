@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.genruntimeconfig.cache
