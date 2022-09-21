@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\bin\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\bin\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\bin\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\bin\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\bin\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\bin\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\obj\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\obj\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\obj\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\obj\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\obj\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\obj\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\obj\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesAndVariables-Lab\01.ConvertMeterstoKilometers\obj\Debug\netcoreapp3.1\01.ConvertMeterstoKilometers.genruntimeconfig.cache
