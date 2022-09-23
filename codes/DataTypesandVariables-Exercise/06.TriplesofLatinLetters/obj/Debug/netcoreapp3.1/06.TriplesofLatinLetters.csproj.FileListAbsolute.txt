@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesofLatinLetters.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesofLatinLetters.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesofLatinLetters.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesofLatinLetters.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesofLatinLetters.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\bin\Debug\netcoreapp3.1\06.TriplesofLatinLetters.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesofLatinLetters.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesofLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesofLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesofLatinLetters.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesofLatinLetters.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesofLatinLetters.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\06.TriplesofLatinLetters\obj\Debug\netcoreapp3.1\06.TriplesofLatinLetters.genruntimeconfig.cache

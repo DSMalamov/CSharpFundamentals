@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\bin\Debug\netcoreapp3.1\04.SumofChars.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\bin\Debug\netcoreapp3.1\04.SumofChars.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\bin\Debug\netcoreapp3.1\04.SumofChars.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\bin\Debug\netcoreapp3.1\04.SumofChars.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\bin\Debug\netcoreapp3.1\04.SumofChars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\bin\Debug\netcoreapp3.1\04.SumofChars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\obj\Debug\netcoreapp3.1\04.SumofChars.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\obj\Debug\netcoreapp3.1\04.SumofChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\obj\Debug\netcoreapp3.1\04.SumofChars.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\obj\Debug\netcoreapp3.1\04.SumofChars.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\obj\Debug\netcoreapp3.1\04.SumofChars.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\obj\Debug\netcoreapp3.1\04.SumofChars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\obj\Debug\netcoreapp3.1\04.SumofChars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\04.SumofChars\obj\Debug\netcoreapp3.1\04.SumofChars.genruntimeconfig.cache

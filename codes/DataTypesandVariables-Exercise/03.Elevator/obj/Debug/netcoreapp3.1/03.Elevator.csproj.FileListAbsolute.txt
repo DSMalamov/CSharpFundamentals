@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\DataTypesandVariables-Exercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.genruntimeconfig.cache
