@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\bin\Debug\netcoreapp3.1\01.DayofWeek.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\01.DayofWeek\obj\Debug\netcoreapp3.1\01.DayofWeek.genruntimeconfig.cache
