@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\07.MaxSequenceofEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceofEqualElements.genruntimeconfig.cache

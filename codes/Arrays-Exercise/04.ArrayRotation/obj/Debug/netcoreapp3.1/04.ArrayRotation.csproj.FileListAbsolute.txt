@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp3.1\04.ArrayRotation.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp3.1\04.ArrayRotation.genruntimeconfig.cache
