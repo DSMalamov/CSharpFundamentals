@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayofStrings.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayofStrings.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayofStrings.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayofStrings.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayofStrings.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayofStrings.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayofStrings.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayofStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayofStrings.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayofStrings.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayofStrings.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayofStrings.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayofStrings.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\04.ReverseArrayofStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayofStrings.genruntimeconfig.cache

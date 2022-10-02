@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenandOddSubtraction.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenandOddSubtraction.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenandOddSubtraction.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenandOddSubtraction.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenandOddSubtraction.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenandOddSubtraction.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenandOddSubtraction.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenandOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenandOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenandOddSubtraction.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenandOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenandOddSubtraction.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenandOddSubtraction.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Lab\06.EvenandOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenandOddSubtraction.genruntimeconfig.cache
