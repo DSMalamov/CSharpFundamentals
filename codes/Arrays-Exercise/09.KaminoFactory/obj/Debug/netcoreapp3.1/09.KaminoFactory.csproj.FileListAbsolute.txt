@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\bin\Debug\netcoreapp3.1\09.KaminoFactory.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\bin\Debug\netcoreapp3.1\09.KaminoFactory.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\bin\Debug\netcoreapp3.1\09.KaminoFactory.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\bin\Debug\netcoreapp3.1\09.KaminoFactory.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\bin\Debug\netcoreapp3.1\09.KaminoFactory.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\bin\Debug\netcoreapp3.1\09.KaminoFactory.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp3.1\09.KaminoFactory.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp3.1\09.KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp3.1\09.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp3.1\09.KaminoFactory.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp3.1\09.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp3.1\09.KaminoFactory.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp3.1\09.KaminoFactory.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Arrays-Exercise\09.KaminoFactory\obj\Debug\netcoreapp3.1\09.KaminoFactory.genruntimeconfig.cache
