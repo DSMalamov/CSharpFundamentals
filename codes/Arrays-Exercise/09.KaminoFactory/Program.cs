@@ -21,11 +21,10 @@ namespace _09.KaminoFactory
             while ((check = Console.ReadLine()) != "Clone them!")
             {
                 int[] input = check
-                    .Split("!")
+                    .Split("!",StringSplitOptions.RemoveEmptyEntries)
                     .Select(int.Parse)
                     .ToArray();
 
-                //Namirane i zapazvane na maksimalna duljina i nachalo na porednost.
                 sample++;
                 int currCount = 0;
                 int currStart = 0;
@@ -47,7 +46,6 @@ namespace _09.KaminoFactory
                         currSum++;
                     }
                 }
-                
                 if (max <= currCount)
                 {
                     if (currCount > max)
@@ -59,7 +57,6 @@ namespace _09.KaminoFactory
                         sum = currSum;
                         continue;
                     }
-                    
                     if (max == currCount && start >= currStart)
                     {
                         if (start > currStart)
@@ -70,7 +67,6 @@ namespace _09.KaminoFactory
                             sum = currSum;
                             continue;
                         }
-                        
                         if (max == currCount && start == currStart && currSum >= sum)
                         {
                             if (currSum > sum)
@@ -79,19 +75,11 @@ namespace _09.KaminoFactory
                                 bestSample = sample;
                                 sum = currSum;
                                 continue;
-                            }
-                                
-                            
+                            }   
                         }
-
                     }
-
                 }
-
-                
-
             }
-
             Console.WriteLine($"Best DNA sample {bestSample} with sum: {sum}.");
             Console.WriteLine(String.Join(" ", save));
         }
