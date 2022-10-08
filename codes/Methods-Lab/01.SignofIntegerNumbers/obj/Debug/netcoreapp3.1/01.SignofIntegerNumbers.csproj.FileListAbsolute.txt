@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignofIntegerNumbers.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignofIntegerNumbers.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignofIntegerNumbers.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignofIntegerNumbers.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignofIntegerNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignofIntegerNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignofIntegerNumbers.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignofIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignofIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignofIntegerNumbers.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignofIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignofIntegerNumbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignofIntegerNumbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\01.SignofIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignofIntegerNumbers.genruntimeconfig.cache
