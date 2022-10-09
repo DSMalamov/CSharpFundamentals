@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\10.MultiplyEvensbyOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensbyOdds.genruntimeconfig.cache

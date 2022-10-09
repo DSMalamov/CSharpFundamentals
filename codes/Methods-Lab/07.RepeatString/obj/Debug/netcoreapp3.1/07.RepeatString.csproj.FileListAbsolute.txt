@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\bin\Debug\netcoreapp3.1\07.RepeatString.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Methods-Lab\07.RepeatString\obj\Debug\netcoreapp3.1\07.RepeatString.genruntimeconfig.cache
