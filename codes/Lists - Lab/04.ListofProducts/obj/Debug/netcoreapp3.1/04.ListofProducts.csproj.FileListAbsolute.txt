@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\bin\Debug\netcoreapp3.1\04.ListofProducts.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\bin\Debug\netcoreapp3.1\04.ListofProducts.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\bin\Debug\netcoreapp3.1\04.ListofProducts.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\bin\Debug\netcoreapp3.1\04.ListofProducts.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\bin\Debug\netcoreapp3.1\04.ListofProducts.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\bin\Debug\netcoreapp3.1\04.ListofProducts.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\obj\Debug\netcoreapp3.1\04.ListofProducts.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\obj\Debug\netcoreapp3.1\04.ListofProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\obj\Debug\netcoreapp3.1\04.ListofProducts.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\obj\Debug\netcoreapp3.1\04.ListofProducts.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\obj\Debug\netcoreapp3.1\04.ListofProducts.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\obj\Debug\netcoreapp3.1\04.ListofProducts.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\obj\Debug\netcoreapp3.1\04.ListofProducts.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\04.ListofProducts\obj\Debug\netcoreapp3.1\04.ListofProducts.genruntimeconfig.cache

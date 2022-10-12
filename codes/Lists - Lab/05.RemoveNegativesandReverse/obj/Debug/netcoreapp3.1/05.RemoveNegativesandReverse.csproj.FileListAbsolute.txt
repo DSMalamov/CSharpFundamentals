@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\bin\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists - Lab\05.RemoveNegativesandReverse\obj\Debug\netcoreapp3.1\05.RemoveNegativesandReverse.genruntimeconfig.cache
