@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.genruntimeconfig.cache
