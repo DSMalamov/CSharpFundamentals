@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\bin\Debug\netcoreapp3.1\09.PokemonDon'tGo.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\Lists-Exercise\09.PokemonDon'tGo\obj\Debug\netcoreapp3.1\09.PokemonDon'tGo.genruntimeconfig.cache

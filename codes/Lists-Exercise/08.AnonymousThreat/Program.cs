@@ -24,55 +24,51 @@ namespace _08.AnonymousThreat
                 }
                 else if (cmdArg[0] == "divide")
                 {
-                    DivideCommand(input, cmdArg);
+                    int index = int.Parse(cmdArg[1]);
+                    int partitions = int.Parse(cmdArg[2]);
+
+                    
+                    string indexCopy = input[index];
+                    List<string> partitionsList = DivideWord(indexCopy, partitions);
+
+                    input.RemoveAt(index);
+                    input.InsertRange(index, partitionsList);
                 }
             }
 
             Console.WriteLine(string.Join(" ", input));
         }
 
-        private static void DivideCommand(List<string> input, string[] cmdArg)
+        static List<string> DivideWord(string indexCopy, int partitions)
         {
-            int index = int.Parse(cmdArg[1]);
-            int partitions = int.Parse(cmdArg[2]);
+            
+            int partitionLength = indexCopy.Length / partitions;
+            int lastPartLength = indexCopy.Length - partitionLength * (partitions - 1);
 
-            int partitionLength = input[index].Length / partitions;
-            int lastPartLength = input[index].Length - partitionLength * partitions;
+            List<string> partitionsList = new List<string>();
 
-            if (lastPartLength < partitionLength && lastPartLength != 0)
+            for (int i = 0; i < partitions; i++)
             {
-                partitionLength -= 1;
-                //lastPartLength = input[index].Length - partitionLength * partitions;
-            }
-
-            string indexCopy = input[index];
-            input[index] = string.Empty;
-            int counter = 0;
-            int partitionCounter = 1;
-
-            for (int i = 0; i < indexCopy.Length; i++)
-            {
-                char currEl = indexCopy[i];
-                counter++;
-                if (counter > partitionLength)
+                int desiredLength = partitionLength;
+                
+                if (i == partitions - 1)
                 {
-                    counter = 1;
-                    if (partitionCounter >= partitions)
-                    {
-                        
-                    }
-                    else
-                    {
-                        index++;
-                        partitionCounter++;
-                        input.Add("");
-                    }
-                    
-
+                    desiredLength = lastPartLength;
                 }
 
-                input[index] += currEl;
+
+                char[] newpartitionArray = indexCopy
+                    .Skip(i * partitionLength)
+                    .Take(desiredLength)
+                    .ToArray();
+
+                string partitionJoin = String.Join("", newpartitionArray);
+                partitionsList.Add(partitionJoin);
+                    
+                
             }
+
+            return partitionsList;
         }
 
         private static void MergeCommand(List<string> input, string[] cmdArg)
