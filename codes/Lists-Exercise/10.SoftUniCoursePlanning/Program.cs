@@ -106,7 +106,7 @@ namespace _10.SoftUniCoursePlanning
                         input.Add(cmdArg[1]);
                         input.Add($"{cmdArg[1]}-Exercise");
                     }
-                    else
+                    else if(input.Contains(cmdArg[1]) && !input.Contains($"{cmdArg[1]}-Exercise"))
                     {
                         int index = 0;
                         for (int i = 0; i < input.Count; i++)
