@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\bin\Debug\netcoreapp3.1\04.ComputerStore.undone.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\bin\Debug\netcoreapp3.1\04.ComputerStore.undone.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\bin\Debug\netcoreapp3.1\04.ComputerStore.undone.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\bin\Debug\netcoreapp3.1\04.ComputerStore.undone.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\bin\Debug\netcoreapp3.1\04.ComputerStore.undone.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\bin\Debug\netcoreapp3.1\04.ComputerStore.undone.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\obj\Debug\netcoreapp3.1\04.ComputerStore.undone.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\obj\Debug\netcoreapp3.1\04.ComputerStore.undone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\obj\Debug\netcoreapp3.1\04.ComputerStore.undone.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\obj\Debug\netcoreapp3.1\04.ComputerStore.undone.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\obj\Debug\netcoreapp3.1\04.ComputerStore.undone.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\obj\Debug\netcoreapp3.1\04.ComputerStore.undone.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\obj\Debug\netcoreapp3.1\04.ComputerStore.undone.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\04.ComputerStore.undone\obj\Debug\netcoreapp3.1\04.ComputerStore.undone.genruntimeconfig.cache

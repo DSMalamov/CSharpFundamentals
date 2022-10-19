@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\bin\Debug\netcoreapp3.1\11. ArrayModifier.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\bin\Debug\netcoreapp3.1\11. ArrayModifier.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\bin\Debug\netcoreapp3.1\11. ArrayModifier.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\bin\Debug\netcoreapp3.1\11. ArrayModifier.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\bin\Debug\netcoreapp3.1\11. ArrayModifier.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\bin\Debug\netcoreapp3.1\11. ArrayModifier.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\obj\Debug\netcoreapp3.1\11. ArrayModifier.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\obj\Debug\netcoreapp3.1\11. ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\obj\Debug\netcoreapp3.1\11. ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\obj\Debug\netcoreapp3.1\11. ArrayModifier.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\obj\Debug\netcoreapp3.1\11. ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\obj\Debug\netcoreapp3.1\11. ArrayModifier.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\obj\Debug\netcoreapp3.1\11. ArrayModifier.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\11. ArrayModifier\obj\Debug\netcoreapp3.1\11. ArrayModifier.genruntimeconfig.cache

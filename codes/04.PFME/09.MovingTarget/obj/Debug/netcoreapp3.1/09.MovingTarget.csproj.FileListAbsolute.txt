@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\bin\Debug\netcoreapp3.1\09.MovingTarget.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\bin\Debug\netcoreapp3.1\09.MovingTarget.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\bin\Debug\netcoreapp3.1\09.MovingTarget.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\bin\Debug\netcoreapp3.1\09.MovingTarget.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\bin\Debug\netcoreapp3.1\09.MovingTarget.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\bin\Debug\netcoreapp3.1\09.MovingTarget.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\obj\Debug\netcoreapp3.1\09.MovingTarget.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\obj\Debug\netcoreapp3.1\09.MovingTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\obj\Debug\netcoreapp3.1\09.MovingTarget.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\obj\Debug\netcoreapp3.1\09.MovingTarget.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\obj\Debug\netcoreapp3.1\09.MovingTarget.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\obj\Debug\netcoreapp3.1\09.MovingTarget.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\obj\Debug\netcoreapp3.1\09.MovingTarget.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\09.MovingTarget\obj\Debug\netcoreapp3.1\09.MovingTarget.genruntimeconfig.cache

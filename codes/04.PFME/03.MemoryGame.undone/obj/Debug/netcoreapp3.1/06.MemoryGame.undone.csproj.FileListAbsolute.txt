@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\bin\Debug\netcoreapp3.1\06.MemoryGame.undone.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\bin\Debug\netcoreapp3.1\06.MemoryGame.undone.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\bin\Debug\netcoreapp3.1\06.MemoryGame.undone.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\bin\Debug\netcoreapp3.1\06.MemoryGame.undone.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\bin\Debug\netcoreapp3.1\06.MemoryGame.undone.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\bin\Debug\netcoreapp3.1\06.MemoryGame.undone.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\obj\Debug\netcoreapp3.1\06.MemoryGame.undone.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\obj\Debug\netcoreapp3.1\06.MemoryGame.undone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\obj\Debug\netcoreapp3.1\06.MemoryGame.undone.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\obj\Debug\netcoreapp3.1\06.MemoryGame.undone.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\obj\Debug\netcoreapp3.1\06.MemoryGame.undone.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\obj\Debug\netcoreapp3.1\06.MemoryGame.undone.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\obj\Debug\netcoreapp3.1\06.MemoryGame.undone.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\03.MemoryGame.undone\obj\Debug\netcoreapp3.1\06.MemoryGame.undone.genruntimeconfig.cache
