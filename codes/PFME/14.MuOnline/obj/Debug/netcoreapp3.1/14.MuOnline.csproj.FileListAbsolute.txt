@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\bin\Debug\netcoreapp3.1\14.MuOnline.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\bin\Debug\netcoreapp3.1\14.MuOnline.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\bin\Debug\netcoreapp3.1\14.MuOnline.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\bin\Debug\netcoreapp3.1\14.MuOnline.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\bin\Debug\netcoreapp3.1\14.MuOnline.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\bin\Debug\netcoreapp3.1\14.MuOnline.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\obj\Debug\netcoreapp3.1\14.MuOnline.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\obj\Debug\netcoreapp3.1\14.MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\obj\Debug\netcoreapp3.1\14.MuOnline.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\obj\Debug\netcoreapp3.1\14.MuOnline.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\obj\Debug\netcoreapp3.1\14.MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\obj\Debug\netcoreapp3.1\14.MuOnline.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\obj\Debug\netcoreapp3.1\14.MuOnline.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\14.MuOnline\obj\Debug\netcoreapp3.1\14.MuOnline.genruntimeconfig.cache
