@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\bin\Debug\netcoreapp3.1\10.SoftUniReception.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\bin\Debug\netcoreapp3.1\10.SoftUniReception.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\bin\Debug\netcoreapp3.1\10.SoftUniReception.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\bin\Debug\netcoreapp3.1\10.SoftUniReception.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\bin\Debug\netcoreapp3.1\10.SoftUniReception.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\bin\Debug\netcoreapp3.1\10.SoftUniReception.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\obj\Debug\netcoreapp3.1\10.SoftUniReception.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\obj\Debug\netcoreapp3.1\10.SoftUniReception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\obj\Debug\netcoreapp3.1\10.SoftUniReception.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\obj\Debug\netcoreapp3.1\10.SoftUniReception.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\obj\Debug\netcoreapp3.1\10.SoftUniReception.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\obj\Debug\netcoreapp3.1\10.SoftUniReception.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\obj\Debug\netcoreapp3.1\10.SoftUniReception.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\10.SoftUniReception\obj\Debug\netcoreapp3.1\10.SoftUniReception.genruntimeconfig.cache

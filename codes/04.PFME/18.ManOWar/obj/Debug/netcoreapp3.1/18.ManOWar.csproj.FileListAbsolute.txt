@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\bin\Debug\netcoreapp3.1\18.ManOWar.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\bin\Debug\netcoreapp3.1\18.ManOWar.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\bin\Debug\netcoreapp3.1\18.ManOWar.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\bin\Debug\netcoreapp3.1\18.ManOWar.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\bin\Debug\netcoreapp3.1\18.ManOWar.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\bin\Debug\netcoreapp3.1\18.ManOWar.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\obj\Debug\netcoreapp3.1\18.ManOWar.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\obj\Debug\netcoreapp3.1\18.ManOWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\obj\Debug\netcoreapp3.1\18.ManOWar.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\obj\Debug\netcoreapp3.1\18.ManOWar.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\obj\Debug\netcoreapp3.1\18.ManOWar.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\obj\Debug\netcoreapp3.1\18.ManOWar.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\obj\Debug\netcoreapp3.1\18.ManOWar.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\18.ManOWar\obj\Debug\netcoreapp3.1\18.ManOWar.genruntimeconfig.cache

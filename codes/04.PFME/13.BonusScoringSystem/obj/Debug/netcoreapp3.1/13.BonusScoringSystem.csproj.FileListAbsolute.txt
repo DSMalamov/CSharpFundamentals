@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\bin\Debug\netcoreapp3.1\13.BonusScoringSystem.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\bin\Debug\netcoreapp3.1\13.BonusScoringSystem.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\bin\Debug\netcoreapp3.1\13.BonusScoringSystem.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\bin\Debug\netcoreapp3.1\13.BonusScoringSystem.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\bin\Debug\netcoreapp3.1\13.BonusScoringSystem.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\bin\Debug\netcoreapp3.1\13.BonusScoringSystem.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\obj\Debug\netcoreapp3.1\13.BonusScoringSystem.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\obj\Debug\netcoreapp3.1\13.BonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\obj\Debug\netcoreapp3.1\13.BonusScoringSystem.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\obj\Debug\netcoreapp3.1\13.BonusScoringSystem.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\obj\Debug\netcoreapp3.1\13.BonusScoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\obj\Debug\netcoreapp3.1\13.BonusScoringSystem.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\obj\Debug\netcoreapp3.1\13.BonusScoringSystem.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\13.BonusScoringSystem\obj\Debug\netcoreapp3.1\13.BonusScoringSystem.genruntimeconfig.cache

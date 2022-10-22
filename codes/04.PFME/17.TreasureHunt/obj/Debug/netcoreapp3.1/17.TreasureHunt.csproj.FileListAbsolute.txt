@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\bin\Debug\netcoreapp3.1\17.TreasureHunt.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\bin\Debug\netcoreapp3.1\17.TreasureHunt.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\bin\Debug\netcoreapp3.1\17.TreasureHunt.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\bin\Debug\netcoreapp3.1\17.TreasureHunt.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\bin\Debug\netcoreapp3.1\17.TreasureHunt.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\bin\Debug\netcoreapp3.1\17.TreasureHunt.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\obj\Debug\netcoreapp3.1\17.TreasureHunt.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\obj\Debug\netcoreapp3.1\17.TreasureHunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\obj\Debug\netcoreapp3.1\17.TreasureHunt.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\obj\Debug\netcoreapp3.1\17.TreasureHunt.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\obj\Debug\netcoreapp3.1\17.TreasureHunt.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\obj\Debug\netcoreapp3.1\17.TreasureHunt.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\obj\Debug\netcoreapp3.1\17.TreasureHunt.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\17.TreasureHunt\obj\Debug\netcoreapp3.1\17.TreasureHunt.genruntimeconfig.cache

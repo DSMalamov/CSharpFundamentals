@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\obj\Debug\netcoreapp3.1\12.Numbers.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\obj\Debug\netcoreapp3.1\12.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\obj\Debug\netcoreapp3.1\12.Numbers.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\obj\Debug\netcoreapp3.1\12.Numbers.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\obj\Debug\netcoreapp3.1\12.Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\bin\Debug\netcoreapp3.1\12.Numbers.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\bin\Debug\netcoreapp3.1\12.Numbers.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\bin\Debug\netcoreapp3.1\12.Numbers.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\bin\Debug\netcoreapp3.1\12.Numbers.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\bin\Debug\netcoreapp3.1\12.Numbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\bin\Debug\netcoreapp3.1\12.Numbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\obj\Debug\netcoreapp3.1\12.Numbers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\obj\Debug\netcoreapp3.1\12.Numbers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\12.Numbers\obj\Debug\netcoreapp3.1\12.Numbers.genruntimeconfig.cache

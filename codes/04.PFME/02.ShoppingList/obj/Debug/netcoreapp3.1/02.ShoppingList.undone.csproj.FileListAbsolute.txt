@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.undone.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.undone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.undone.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.undone.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.undone.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.undone.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.undone.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.undone.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.undone.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.undone.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.undone.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.undone.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.undone.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.undone.genruntimeconfig.cache

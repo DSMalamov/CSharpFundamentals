@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\bin\Debug\netcoreapp3.1\07.Counter-Strike.undone.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\bin\Debug\netcoreapp3.1\07.Counter-Strike.undone.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\bin\Debug\netcoreapp3.1\07.Counter-Strike.undone.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\bin\Debug\netcoreapp3.1\07.Counter-Strike.undone.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\bin\Debug\netcoreapp3.1\07.Counter-Strike.undone.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\bin\Debug\netcoreapp3.1\07.Counter-Strike.undone.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\obj\Debug\netcoreapp3.1\07.Counter-Strike.undone.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\obj\Debug\netcoreapp3.1\07.Counter-Strike.undone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\obj\Debug\netcoreapp3.1\07.Counter-Strike.undone.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\obj\Debug\netcoreapp3.1\07.Counter-Strike.undone.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\obj\Debug\netcoreapp3.1\07.Counter-Strike.undone.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\obj\Debug\netcoreapp3.1\07.Counter-Strike.undone.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\obj\Debug\netcoreapp3.1\07.Counter-Strike.undone.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\01.Counter-Strike.undone\obj\Debug\netcoreapp3.1\07.Counter-Strike.undone.genruntimeconfig.cache

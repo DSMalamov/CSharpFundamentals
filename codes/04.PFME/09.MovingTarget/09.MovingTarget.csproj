@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_09.MovingTarget</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>

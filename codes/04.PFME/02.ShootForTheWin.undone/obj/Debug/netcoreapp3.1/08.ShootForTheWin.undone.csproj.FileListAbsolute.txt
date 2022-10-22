@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\bin\Debug\netcoreapp3.1\08.ShootForTheWin.undone.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\bin\Debug\netcoreapp3.1\08.ShootForTheWin.undone.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\bin\Debug\netcoreapp3.1\08.ShootForTheWin.undone.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\bin\Debug\netcoreapp3.1\08.ShootForTheWin.undone.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\bin\Debug\netcoreapp3.1\08.ShootForTheWin.undone.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\bin\Debug\netcoreapp3.1\08.ShootForTheWin.undone.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\obj\Debug\netcoreapp3.1\08.ShootForTheWin.undone.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\obj\Debug\netcoreapp3.1\08.ShootForTheWin.undone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\obj\Debug\netcoreapp3.1\08.ShootForTheWin.undone.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\obj\Debug\netcoreapp3.1\08.ShootForTheWin.undone.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\obj\Debug\netcoreapp3.1\08.ShootForTheWin.undone.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\obj\Debug\netcoreapp3.1\08.ShootForTheWin.undone.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\obj\Debug\netcoreapp3.1\08.ShootForTheWin.undone.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\02.ShootForTheWin.undone\obj\Debug\netcoreapp3.1\08.ShootForTheWin.undone.genruntimeconfig.cache

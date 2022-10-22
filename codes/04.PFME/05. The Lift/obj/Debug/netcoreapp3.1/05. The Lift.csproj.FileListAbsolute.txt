@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\bin\Debug\netcoreapp3.1\05. The Lift.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\bin\Debug\netcoreapp3.1\05. The Lift.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\bin\Debug\netcoreapp3.1\05. The Lift.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\bin\Debug\netcoreapp3.1\05. The Lift.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\bin\Debug\netcoreapp3.1\05. The Lift.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\bin\Debug\netcoreapp3.1\05. The Lift.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\obj\Debug\netcoreapp3.1\05. The Lift.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\obj\Debug\netcoreapp3.1\05. The Lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\obj\Debug\netcoreapp3.1\05. The Lift.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\obj\Debug\netcoreapp3.1\05. The Lift.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\obj\Debug\netcoreapp3.1\05. The Lift.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\obj\Debug\netcoreapp3.1\05. The Lift.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\obj\Debug\netcoreapp3.1\05. The Lift.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\05. The Lift\obj\Debug\netcoreapp3.1\05. The Lift.genruntimeconfig.cache

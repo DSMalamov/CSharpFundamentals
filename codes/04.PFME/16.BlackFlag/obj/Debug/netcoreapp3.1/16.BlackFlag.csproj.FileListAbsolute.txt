@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\bin\Debug\netcoreapp3.1\16.BlackFlag.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\bin\Debug\netcoreapp3.1\16.BlackFlag.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\bin\Debug\netcoreapp3.1\16.BlackFlag.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\bin\Debug\netcoreapp3.1\16.BlackFlag.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\bin\Debug\netcoreapp3.1\16.BlackFlag.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\bin\Debug\netcoreapp3.1\16.BlackFlag.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\obj\Debug\netcoreapp3.1\16.BlackFlag.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\obj\Debug\netcoreapp3.1\16.BlackFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\obj\Debug\netcoreapp3.1\16.BlackFlag.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\obj\Debug\netcoreapp3.1\16.BlackFlag.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\obj\Debug\netcoreapp3.1\16.BlackFlag.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\obj\Debug\netcoreapp3.1\16.BlackFlag.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\obj\Debug\netcoreapp3.1\16.BlackFlag.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\16.BlackFlag\obj\Debug\netcoreapp3.1\16.BlackFlag.genruntimeconfig.cache

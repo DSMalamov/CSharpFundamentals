@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\bin\Debug\netcoreapp3.1\15.Inventory.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\bin\Debug\netcoreapp3.1\15.Inventory.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\bin\Debug\netcoreapp3.1\15.Inventory.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\bin\Debug\netcoreapp3.1\15.Inventory.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\bin\Debug\netcoreapp3.1\15.Inventory.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\bin\Debug\netcoreapp3.1\15.Inventory.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\obj\Debug\netcoreapp3.1\15.Inventory.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\obj\Debug\netcoreapp3.1\15.Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\obj\Debug\netcoreapp3.1\15.Inventory.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\obj\Debug\netcoreapp3.1\15.Inventory.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\obj\Debug\netcoreapp3.1\15.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\obj\Debug\netcoreapp3.1\15.Inventory.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\obj\Debug\netcoreapp3.1\15.Inventory.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\04.PFME\15.Inventory\obj\Debug\netcoreapp3.1\15.Inventory.genruntimeconfig.cache
