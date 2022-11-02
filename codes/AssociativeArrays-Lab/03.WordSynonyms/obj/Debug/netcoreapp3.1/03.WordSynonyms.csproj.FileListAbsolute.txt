@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.genruntimeconfig.cache
