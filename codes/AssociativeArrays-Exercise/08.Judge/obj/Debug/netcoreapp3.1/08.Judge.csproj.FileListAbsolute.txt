@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\bin\Debug\netcoreapp3.1\08.Judge.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\bin\Debug\netcoreapp3.1\08.Judge.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\bin\Debug\netcoreapp3.1\08.Judge.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\bin\Debug\netcoreapp3.1\08.Judge.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\bin\Debug\netcoreapp3.1\08.Judge.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\bin\Debug\netcoreapp3.1\08.Judge.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\obj\Debug\netcoreapp3.1\08.Judge.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\obj\Debug\netcoreapp3.1\08.Judge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\obj\Debug\netcoreapp3.1\08.Judge.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\obj\Debug\netcoreapp3.1\08.Judge.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\obj\Debug\netcoreapp3.1\08.Judge.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\obj\Debug\netcoreapp3.1\08.Judge.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\obj\Debug\netcoreapp3.1\08.Judge.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\08.Judge\obj\Debug\netcoreapp3.1\08.Judge.genruntimeconfig.cache

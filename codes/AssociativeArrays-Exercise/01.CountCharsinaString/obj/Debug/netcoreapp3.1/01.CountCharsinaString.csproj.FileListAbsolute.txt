@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\bin\Debug\netcoreapp3.1\01.CountCharsinaString.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\01.CountCharsinaString\obj\Debug\netcoreapp3.1\01.CountCharsinaString.genruntimeconfig.cache

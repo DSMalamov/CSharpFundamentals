@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\bin\Debug\netcoreapp3.1\07.CompanyUsers.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\bin\Debug\netcoreapp3.1\07.CompanyUsers.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\bin\Debug\netcoreapp3.1\07.CompanyUsers.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\bin\Debug\netcoreapp3.1\07.CompanyUsers.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\bin\Debug\netcoreapp3.1\07.CompanyUsers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\bin\Debug\netcoreapp3.1\07.CompanyUsers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\netcoreapp3.1\07.CompanyUsers.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\netcoreapp3.1\07.CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\netcoreapp3.1\07.CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\netcoreapp3.1\07.CompanyUsers.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\netcoreapp3.1\07.CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\netcoreapp3.1\07.CompanyUsers.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\netcoreapp3.1\07.CompanyUsers.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\07.CompanyUsers\obj\Debug\netcoreapp3.1\07.CompanyUsers.genruntimeconfig.cache
