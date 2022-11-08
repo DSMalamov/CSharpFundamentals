@@ -8,8 +8,8 @@ namespace _08.Judge
     {
         static void Main(string[] args)
         {
-            var contests = new Dictionary<string, Dictionary<string, int>>();
-            var userPoints = new Dictionary<string, int>();
+            var contests = new Dictionary<string, SortedDictionary<string, int>>();
+            var userPoints = new SortedDictionary<string, int>();
 
             string command;
 
@@ -24,7 +24,7 @@ namespace _08.Judge
 
                 if (!contests.ContainsKey(contestName))
                 {
-                    contests[contestName] = new Dictionary<string, int>();
+                    contests[contestName] = new SortedDictionary<string, int>();
                 }
 
                 if (!contests[contestName].ContainsKey(username))
@@ -44,9 +44,8 @@ namespace _08.Judge
                     contests[contestName][username] = points;
                     userPoints[username] += diff;
                     
-                    
                 }
-                else
+                else if (contests[contestName][username] == 0)
                 {
                     userPoints[username] += points;
                 }
@@ -59,10 +58,11 @@ namespace _08.Judge
                 Console.WriteLine($"{con.Key}: {con.Value.Count} participants");
                 int position = 1;
                 
-                foreach (var un in con.Value.OrderByDescending(x => x.Value))
+                foreach (var userName in con.Value.OrderByDescending(x => x.Value))
                 {
+                    
                     Console.Write($"{position}. ");
-                    Console.WriteLine($"{un.Key} <::> {un.Value}");
+                    Console.WriteLine($"{userName.Key} <::> {userName.Value}");
                     position++;
                 }
 

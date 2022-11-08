@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\bin\Debug\netcoreapp3.1\09.MOBAChallenger.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\bin\Debug\netcoreapp3.1\09.MOBAChallenger.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\bin\Debug\netcoreapp3.1\09.MOBAChallenger.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\bin\Debug\netcoreapp3.1\09.MOBAChallenger.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\bin\Debug\netcoreapp3.1\09.MOBAChallenger.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\bin\Debug\netcoreapp3.1\09.MOBAChallenger.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\obj\Debug\netcoreapp3.1\09.MOBAChallenger.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\obj\Debug\netcoreapp3.1\09.MOBAChallenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\obj\Debug\netcoreapp3.1\09.MOBAChallenger.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\obj\Debug\netcoreapp3.1\09.MOBAChallenger.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\obj\Debug\netcoreapp3.1\09.MOBAChallenger.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\obj\Debug\netcoreapp3.1\09.MOBAChallenger.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\obj\Debug\netcoreapp3.1\09.MOBAChallenger.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\AssociativeArrays-Exercise\09.MOBAChallenger\obj\Debug\netcoreapp3.1\09.MOBAChallenger.genruntimeconfig.cache
