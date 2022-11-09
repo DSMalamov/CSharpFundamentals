@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\bin\Debug\netcoreapp3.1\05.DigitsLettersandOther.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\bin\Debug\netcoreapp3.1\05.DigitsLettersandOther.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\bin\Debug\netcoreapp3.1\05.DigitsLettersandOther.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\bin\Debug\netcoreapp3.1\05.DigitsLettersandOther.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\bin\Debug\netcoreapp3.1\05.DigitsLettersandOther.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\bin\Debug\netcoreapp3.1\05.DigitsLettersandOther.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\obj\Debug\netcoreapp3.1\05.DigitsLettersandOther.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\obj\Debug\netcoreapp3.1\05.DigitsLettersandOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\obj\Debug\netcoreapp3.1\05.DigitsLettersandOther.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\obj\Debug\netcoreapp3.1\05.DigitsLettersandOther.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\obj\Debug\netcoreapp3.1\05.DigitsLettersandOther.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\obj\Debug\netcoreapp3.1\05.DigitsLettersandOther.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\obj\Debug\netcoreapp3.1\05.DigitsLettersandOther.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Lab\05.DigitsLettersandOther\obj\Debug\netcoreapp3.1\05.DigitsLettersandOther.genruntimeconfig.cache
