@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.genruntimeconfig.cache
