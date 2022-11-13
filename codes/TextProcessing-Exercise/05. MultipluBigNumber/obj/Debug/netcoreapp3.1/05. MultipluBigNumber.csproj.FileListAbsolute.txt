@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\bin\Debug\netcoreapp3.1\05. MultipluBigNumber.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\bin\Debug\netcoreapp3.1\05. MultipluBigNumber.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\bin\Debug\netcoreapp3.1\05. MultipluBigNumber.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\bin\Debug\netcoreapp3.1\05. MultipluBigNumber.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\bin\Debug\netcoreapp3.1\05. MultipluBigNumber.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\bin\Debug\netcoreapp3.1\05. MultipluBigNumber.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\obj\Debug\netcoreapp3.1\05. MultipluBigNumber.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\obj\Debug\netcoreapp3.1\05. MultipluBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\obj\Debug\netcoreapp3.1\05. MultipluBigNumber.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\obj\Debug\netcoreapp3.1\05. MultipluBigNumber.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\obj\Debug\netcoreapp3.1\05. MultipluBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\obj\Debug\netcoreapp3.1\05. MultipluBigNumber.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\obj\Debug\netcoreapp3.1\05. MultipluBigNumber.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\05. MultipluBigNumber\obj\Debug\netcoreapp3.1\05. MultipluBigNumber.genruntimeconfig.cache

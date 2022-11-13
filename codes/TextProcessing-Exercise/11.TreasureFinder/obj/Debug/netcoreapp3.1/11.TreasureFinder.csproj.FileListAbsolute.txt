@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\bin\Debug\netcoreapp3.1\11.TreasureFinder.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\bin\Debug\netcoreapp3.1\11.TreasureFinder.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\bin\Debug\netcoreapp3.1\11.TreasureFinder.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\bin\Debug\netcoreapp3.1\11.TreasureFinder.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\bin\Debug\netcoreapp3.1\11.TreasureFinder.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\bin\Debug\netcoreapp3.1\11.TreasureFinder.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\obj\Debug\netcoreapp3.1\11.TreasureFinder.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\obj\Debug\netcoreapp3.1\11.TreasureFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\obj\Debug\netcoreapp3.1\11.TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\obj\Debug\netcoreapp3.1\11.TreasureFinder.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\obj\Debug\netcoreapp3.1\11.TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\obj\Debug\netcoreapp3.1\11.TreasureFinder.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\obj\Debug\netcoreapp3.1\11.TreasureFinder.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\11.TreasureFinder\obj\Debug\netcoreapp3.1\11.TreasureFinder.genruntimeconfig.cache

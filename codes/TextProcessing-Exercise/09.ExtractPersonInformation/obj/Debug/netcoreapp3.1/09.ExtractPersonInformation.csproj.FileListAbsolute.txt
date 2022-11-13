@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\bin\Debug\netcoreapp3.1\09.ExtractPersonInformation.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\bin\Debug\netcoreapp3.1\09.ExtractPersonInformation.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\bin\Debug\netcoreapp3.1\09.ExtractPersonInformation.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\bin\Debug\netcoreapp3.1\09.ExtractPersonInformation.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\bin\Debug\netcoreapp3.1\09.ExtractPersonInformation.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\bin\Debug\netcoreapp3.1\09.ExtractPersonInformation.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\obj\Debug\netcoreapp3.1\09.ExtractPersonInformation.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\obj\Debug\netcoreapp3.1\09.ExtractPersonInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\obj\Debug\netcoreapp3.1\09.ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\obj\Debug\netcoreapp3.1\09.ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\obj\Debug\netcoreapp3.1\09.ExtractPersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\obj\Debug\netcoreapp3.1\09.ExtractPersonInformation.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\obj\Debug\netcoreapp3.1\09.ExtractPersonInformation.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\09.ExtractPersonInformation\obj\Debug\netcoreapp3.1\09.ExtractPersonInformation.genruntimeconfig.cache

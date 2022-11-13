@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\bin\Debug\netcoreapp3.1\13.HTML.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\bin\Debug\netcoreapp3.1\13.HTML.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\bin\Debug\netcoreapp3.1\13.HTML.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\bin\Debug\netcoreapp3.1\13.HTML.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\bin\Debug\netcoreapp3.1\13.HTML.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\bin\Debug\netcoreapp3.1\13.HTML.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\obj\Debug\netcoreapp3.1\13.HTML.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\obj\Debug\netcoreapp3.1\13.HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\obj\Debug\netcoreapp3.1\13.HTML.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\obj\Debug\netcoreapp3.1\13.HTML.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\obj\Debug\netcoreapp3.1\13.HTML.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\obj\Debug\netcoreapp3.1\13.HTML.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\obj\Debug\netcoreapp3.1\13.HTML.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\13.HTML\obj\Debug\netcoreapp3.1\13.HTML.genruntimeconfig.cache

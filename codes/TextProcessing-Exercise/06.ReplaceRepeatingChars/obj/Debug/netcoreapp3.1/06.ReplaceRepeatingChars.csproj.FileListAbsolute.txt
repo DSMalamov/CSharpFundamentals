@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.genruntimeconfig.cache

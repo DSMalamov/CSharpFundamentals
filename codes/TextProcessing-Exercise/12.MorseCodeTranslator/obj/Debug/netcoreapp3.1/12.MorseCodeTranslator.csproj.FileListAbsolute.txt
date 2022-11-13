@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\bin\Debug\netcoreapp3.1\12.MorseCodeTranslator.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\bin\Debug\netcoreapp3.1\12.MorseCodeTranslator.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\bin\Debug\netcoreapp3.1\12.MorseCodeTranslator.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\bin\Debug\netcoreapp3.1\12.MorseCodeTranslator.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\bin\Debug\netcoreapp3.1\12.MorseCodeTranslator.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\bin\Debug\netcoreapp3.1\12.MorseCodeTranslator.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\obj\Debug\netcoreapp3.1\12.MorseCodeTranslator.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\obj\Debug\netcoreapp3.1\12.MorseCodeTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\obj\Debug\netcoreapp3.1\12.MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\obj\Debug\netcoreapp3.1\12.MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\obj\Debug\netcoreapp3.1\12.MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\obj\Debug\netcoreapp3.1\12.MorseCodeTranslator.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\obj\Debug\netcoreapp3.1\12.MorseCodeTranslator.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\TextProcessing-Exercise\12.MorseCodeTranslator\obj\Debug\netcoreapp3.1\12.MorseCodeTranslator.genruntimeconfig.cache
