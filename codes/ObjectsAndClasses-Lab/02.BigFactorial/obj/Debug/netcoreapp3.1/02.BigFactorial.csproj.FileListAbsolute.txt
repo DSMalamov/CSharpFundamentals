@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\bin\Debug\netcoreapp3.1\02.BigFactorial.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\02.BigFactorial\obj\Debug\netcoreapp3.1\02.BigFactorial.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\bin\Debug\netcoreapp3.1\03.Songs.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Lab\03.Songs\obj\Debug\netcoreapp3.1\03.Songs.genruntimeconfig.cache
