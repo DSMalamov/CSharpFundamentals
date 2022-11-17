@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\bin\Debug\netcoreapp3.1\07.OrderbyAge.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\07.OrderbyAge\obj\Debug\netcoreapp3.1\07.OrderbyAge.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\bin\Debug\netcoreapp3.1\06.VehicleCatalogue.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\ObjectsAndClasses-Exercise\06.VehicleCatalogue\obj\Debug\netcoreapp3.1\06.VehicleCatalogue.genruntimeconfig.cache
