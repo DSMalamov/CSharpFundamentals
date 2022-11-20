@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\bin\Debug\netcoreapp3.1\05.NetherRealms.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\05.NetherRealms\obj\Debug\netcoreapp3.1\05.NetherRealms.genruntimeconfig.cache
