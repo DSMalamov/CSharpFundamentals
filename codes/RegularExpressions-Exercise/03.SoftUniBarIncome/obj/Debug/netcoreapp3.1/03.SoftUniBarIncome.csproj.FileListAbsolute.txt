@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\bin\Debug\netcoreapp3.1\03.SoftUniBarIncome.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\RegularExpressions-Exercise\03.SoftUniBarIncome\obj\Debug\netcoreapp3.1\03.SoftUniBarIncome.genruntimeconfig.cache
