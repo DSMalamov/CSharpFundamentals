@@ -10,19 +10,32 @@ namespace _05.NetherRealms
     {
         static void Main(string[] args)
         {
-            string pattern = @"(?<health>[^\d\+\-\*\/\.]+)(?<damage>[-]?\d([.\d]+)?)*(?<action>[\*|\/]*)";
+            string pattern = @"(?<health>[^\d\+\-\*\/\.]+)";
+            string pattern2 = @"(?<damage>[-]?\d([.\d]+)?)";
+            string patter3 = @"(?<action>[\*|\/]*)";
 
             Regex regex = new Regex(pattern);
+            Regex regex2 = new Regex(pattern2);
+            Regex regex3 = new Regex(patter3);
 
             string[] input = Console.ReadLine()
-                .Split(", ", StringSplitOptions.RemoveEmptyEntries)
+                .Split(',', StringSplitOptions.RemoveEmptyEntries);
+                
+            for (int i = 0; i < input.Length; i++)
+            {
+                input[i] = input[i].Trim();
+            }
+
+            string[] input1 = input
                 .OrderBy(x => x)
                 .ToArray();
 
-            for (int i = 0; i < input.Length; i++)
+            for (int i = 0; i < input1.Length; i++)
             {
-                string currEl = input[i];
+                string currEl = input1[i];
                 MatchCollection match = regex.Matches(currEl);
+                MatchCollection match2 = regex2.Matches(currEl);
+                MatchCollection match3 = regex3.Matches(currEl);
 
                 var currHealth = new StringBuilder();
                 List<double> currAttack = new List<double>();
@@ -33,11 +46,18 @@ namespace _05.NetherRealms
 
                     string chealth = item.Groups["health"].Value;
                     currHealth.Append(chealth);
+                    
+                }
+                foreach (Match item in match2)
+                {
                     string cattack = item.Groups["damage"].Value;
                     if (cattack != String.Empty)
                     {
                         currAttack.Add(double.Parse(cattack));
                     }
+                }
+                foreach (Match item in match3)
+                {
                     string caction = item.Groups["action"].Value;
                     currAction.Append(caction);
                 }
@@ -57,7 +77,11 @@ namespace _05.NetherRealms
             int totalHp = 0;
             foreach (char hpCh in currHealth.ToString())
             {
-                totalHp += hpCh;
+                if (hpCh != 0 && hpCh != 1 && hpCh != 2 && hpCh != 3 && hpCh != 4 && hpCh != 5 && hpCh != 6 && hpCh != 7 && hpCh != 8 && hpCh != 9 && hpCh != '.' && hpCh != '+' && hpCh != '-' && hpCh != '*' && hpCh != '/' && hpCh != ' ')
+                {
+                    totalHp += hpCh;
+                }
+                
             }
             return totalHp;
         }
