@@ -61,11 +61,27 @@ namespace _03.ThePianist
                     }
                     
                 }
-                else if (action == "Change")
+                else if (action == "ChangeKey")
                 {
+                    string piece = cmdArg[1];
+                    string newKey = cmdArg[2];
 
+                    if (dict.ContainsKey(piece))
+                    {
+                        dict[piece][1] = newKey;
+                        Console.WriteLine($"Changed the key of {piece} to {newKey}!");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Invalid operation! {piece} does not exist in the collection.");
+                    }
                 }
                 
+            }
+
+            foreach (var item in dict)
+            {
+                Console.WriteLine($"{item.Key} -> Composer: {item.Value[0]}, Key: {item.Value[1]}");
             }
         }
     }
