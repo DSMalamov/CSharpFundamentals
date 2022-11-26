@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\bin\Debug\netcoreapp3.1\14.EmojiDetector.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\bin\Debug\netcoreapp3.1\14.EmojiDetector.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\bin\Debug\netcoreapp3.1\14.EmojiDetector.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\bin\Debug\netcoreapp3.1\14.EmojiDetector.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\bin\Debug\netcoreapp3.1\14.EmojiDetector.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\bin\Debug\netcoreapp3.1\14.EmojiDetector.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\obj\Debug\netcoreapp3.1\14.EmojiDetector.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\obj\Debug\netcoreapp3.1\14.EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\obj\Debug\netcoreapp3.1\14.EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\obj\Debug\netcoreapp3.1\14.EmojiDetector.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\obj\Debug\netcoreapp3.1\14.EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\obj\Debug\netcoreapp3.1\14.EmojiDetector.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\obj\Debug\netcoreapp3.1\14.EmojiDetector.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\14.EmojiDetector\obj\Debug\netcoreapp3.1\14.EmojiDetector.genruntimeconfig.cache

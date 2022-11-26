@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\bin\Debug\netcoreapp3.1\13.ActivationKeys.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\bin\Debug\netcoreapp3.1\13.ActivationKeys.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\bin\Debug\netcoreapp3.1\13.ActivationKeys.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\bin\Debug\netcoreapp3.1\13.ActivationKeys.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\bin\Debug\netcoreapp3.1\13.ActivationKeys.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\bin\Debug\netcoreapp3.1\13.ActivationKeys.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\obj\Debug\netcoreapp3.1\13.ActivationKeys.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\obj\Debug\netcoreapp3.1\13.ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\obj\Debug\netcoreapp3.1\13.ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\obj\Debug\netcoreapp3.1\13.ActivationKeys.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\obj\Debug\netcoreapp3.1\13.ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\obj\Debug\netcoreapp3.1\13.ActivationKeys.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\obj\Debug\netcoreapp3.1\13.ActivationKeys.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\13.ActivationKeys\obj\Debug\netcoreapp3.1\13.ActivationKeys.genruntimeconfig.cache
