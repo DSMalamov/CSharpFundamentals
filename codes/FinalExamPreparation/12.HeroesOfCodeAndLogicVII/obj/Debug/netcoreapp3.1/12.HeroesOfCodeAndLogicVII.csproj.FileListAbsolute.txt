@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\12.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\12.HeroesOfCodeAndLogicVII.genruntimeconfig.cache
