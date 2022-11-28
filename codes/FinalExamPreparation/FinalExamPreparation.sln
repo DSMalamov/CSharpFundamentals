@@ -11,13 +11,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ThePianist", "03.ThePian
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.PlantDiscovery", "06.PlantDiscovery\06.PlantDiscovery.csproj", "{70D4F06A-6FCB-498B-8F0D-D000535F298C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.ActivationKeys", "13.ActivationKeys\13.ActivationKeys.csproj", "{A1845464-C281-49F8-81E8-1379A6E9CB27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.ActivationKeys", "13.ActivationKeys\13.ActivationKeys.csproj", "{A1845464-C281-49F8-81E8-1379A6E9CB27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.EmojiDetector", "14.EmojiDetector\14.EmojiDetector.csproj", "{17B1A53B-8AB2-44D5-8C38-CD17D3756E03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.EmojiDetector", "14.EmojiDetector\14.EmojiDetector.csproj", "{17B1A53B-8AB2-44D5-8C38-CD17D3756E03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.HeroesOfCodeAndLogicVII", "12.HeroesOfCodeAndLogicVII\12.HeroesOfCodeAndLogicVII.csproj", "{56EDD180-70E2-4BEB-ABB1-C9F62072A5E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.HeroesOfCodeAndLogicVII", "12.HeroesOfCodeAndLogicVII\12.HeroesOfCodeAndLogicVII.csproj", "{56EDD180-70E2-4BEB-ABB1-C9F62072A5E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.P!rates", "15.P!rates\15.P!rates.csproj", "{7AB0437C-0D97-41EB-B96D-EC5850A2AD59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.P!rates", "15.P!rates\15.P!rates.csproj", "{7AB0437C-0D97-41EB-B96D-EC5850A2AD59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TheImitationGame", "01.TheImitationGame\01.TheImitationGame.csproj", "{20701177-669A-4BC0-904A-5D67BD8E6305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AdAstra", "02.AdAstra\02.AdAstra.csproj", "{284E8C3F-2012-4FD5-8A34-55B040C238D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.WorldTour", "04.WorldTour\04.WorldTour.csproj", "{0B2F1DFD-DFF4-4863-8925-2837EDA7E9F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{7AB0437C-0D97-41EB-B96D-EC5850A2AD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AB0437C-0D97-41EB-B96D-EC5850A2AD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AB0437C-0D97-41EB-B96D-EC5850A2AD59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20701177-669A-4BC0-904A-5D67BD8E6305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20701177-669A-4BC0-904A-5D67BD8E6305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20701177-669A-4BC0-904A-5D67BD8E6305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20701177-669A-4BC0-904A-5D67BD8E6305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284E8C3F-2012-4FD5-8A34-55B040C238D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284E8C3F-2012-4FD5-8A34-55B040C238D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284E8C3F-2012-4FD5-8A34-55B040C238D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284E8C3F-2012-4FD5-8A34-55B040C238D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2F1DFD-DFF4-4863-8925-2837EDA7E9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2F1DFD-DFF4-4863-8925-2837EDA7E9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2F1DFD-DFF4-4863-8925-2837EDA7E9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2F1DFD-DFF4-4863-8925-2837EDA7E9F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

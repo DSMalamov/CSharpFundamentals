@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\bin\Debug\netcoreapp3.1\04.WorldTour.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\04.WorldTour\obj\Debug\netcoreapp3.1\04.WorldTour.genruntimeconfig.cache
