@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\bin\Debug\netcoreapp3.1\08.MirrorWords.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\08.MirrorWords\obj\Debug\netcoreapp3.1\08.MirrorWords.genruntimeconfig.cache

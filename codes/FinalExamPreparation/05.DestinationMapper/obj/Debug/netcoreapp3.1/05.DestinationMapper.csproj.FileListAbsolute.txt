@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\bin\Debug\netcoreapp3.1\05.DestinationMapper.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\05.DestinationMapper\obj\Debug\netcoreapp3.1\05.DestinationMapper.genruntimeconfig.cache
