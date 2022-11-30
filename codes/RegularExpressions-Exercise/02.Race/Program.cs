@@ -1,78 +1,87 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
+using System.Linq;
 
-namespace _02.Race
+namespace _2._Race
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            var racers = new Dictionary<string, int>();
-                
-            string[] input = Console.ReadLine()
-                .Split(", ", StringSplitOptions.RemoveEmptyEntries);
+            var dict = new Dictionary<string, double>();
 
-            string patternName = @"(?<racer>[A-Za-z]+)";
-            string patternDistance = @"(?<distance>[\d]+)";
-            Regex regexName = new Regex(patternName);
-            Regex regexDistance = new Regex(patternDistance);
+            string[] players = Console.ReadLine()
+                .Split(", ");
 
-            string command;
-
-            while ((command = Console.ReadLine()) != "end of race")
+            foreach (string player in players)
             {
-                MatchCollection match = regexName.Matches(command);
-                MatchCollection match1 = regexDistance.Matches(command);
-                
-                StringBuilder name = new StringBuilder();
-                StringBuilder distance = new StringBuilder();
-
-                foreach (Match item in match)
+                if (!dict.ContainsKey(player))
                 {
-                    name.Append(item);
+                    dict[player] = 0;
                 }
-                foreach (Match item1 in match1)
-                {
-                    distance.Append(item1);
-                }
-
-                if (input.Contains(name.ToString()))
-                {
-                    if (!racers.ContainsKey(name.ToString()))
-                    {
-                        racers.Add(name.ToString(), int.Parse(distance.ToString()));
-                    }
-                    else
-                    {
-                        racers[name.ToString()] += int.Parse(distance.ToString());
-                    }
-                }
-
             }
 
-            var topThreePlayers = racers.OrderByDescending(x => x.Value).Take(3).ToDictionary(x => x.Key, y => y.Value);
-            int counter = 0;
-
-            foreach (var item in topThreePlayers)
+            while (true)
             {
-                counter++;
+                string text = Console.ReadLine();
+                string name = string.Empty;
+                double distance = 0;
+
+                if (text == "end of race")
+                {
+                    break;
+                }
+                else
+                {
+                    Regex regex = new Regex(@"[A-Za-z]");
+
+                    MatchCollection matches = regex.Matches(text);
+
+                    foreach (Match match in matches)
+                    {
+                        name += match.Value;
+                    }
+
+                    if (dict.ContainsKey(name))
+                    {
+                        MatchCollection matchesForDistance = Regex.Matches(text, @"[0-9]");
+
+                        foreach (Match item in matchesForDistance)
+                        {
+                            distance += double.Parse(item.Value);
+                        }
+
+                        dict[name] += distance;
+                    }
+                }
+            }
+            dict = dict
+                .OrderByDescending(x => x.Value)
+                .ToDictionary(x => x.Key, y => y.Value);
+
+            int counter = 1;
+
+            foreach (var kvp in dict)
+            {
                 if (counter == 1)
                 {
-                    Console.WriteLine($"1st place: {item.Key}");
+                    Console.WriteLine($"1st place: {kvp.Key}");
                 }
                 else if (counter == 2)
                 {
-                    Console.WriteLine($"2nd place: {item.Key}");
+                    Console.WriteLine($"2nd place: {kvp.Key}");
                 }
                 else if (counter == 3)
                 {
-                    Console.WriteLine($"3rd place: {item.Key}");
+                    Console.WriteLine($"3rd place: {kvp.Key}");
                 }
+                else
+                {
+                    break;
+                }
+                counter++;
             }
-
         }
     }
 }
