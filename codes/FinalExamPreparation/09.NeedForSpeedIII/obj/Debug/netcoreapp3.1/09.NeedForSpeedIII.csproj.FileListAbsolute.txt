@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\bin\Debug\netcoreapp3.1\09.NeedForSpeedIII.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\bin\Debug\netcoreapp3.1\09.NeedForSpeedIII.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\bin\Debug\netcoreapp3.1\09.NeedForSpeedIII.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\bin\Debug\netcoreapp3.1\09.NeedForSpeedIII.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\bin\Debug\netcoreapp3.1\09.NeedForSpeedIII.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\bin\Debug\netcoreapp3.1\09.NeedForSpeedIII.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\obj\Debug\netcoreapp3.1\09.NeedForSpeedIII.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\obj\Debug\netcoreapp3.1\09.NeedForSpeedIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\obj\Debug\netcoreapp3.1\09.NeedForSpeedIII.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\obj\Debug\netcoreapp3.1\09.NeedForSpeedIII.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\obj\Debug\netcoreapp3.1\09.NeedForSpeedIII.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\obj\Debug\netcoreapp3.1\09.NeedForSpeedIII.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\obj\Debug\netcoreapp3.1\09.NeedForSpeedIII.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\09.NeedForSpeedIII\obj\Debug\netcoreapp3.1\09.NeedForSpeedIII.genruntimeconfig.cache

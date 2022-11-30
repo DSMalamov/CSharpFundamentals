@@ -25,9 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.AdAstra", "02.AdAstra\02
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.WorldTour", "04.WorldTour\04.WorldTour.csproj", "{0B2F1DFD-DFF4-4863-8925-2837EDA7E9F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DestinationMapper", "05.DestinationMapper\05.DestinationMapper.csproj", "{2A5EE217-1505-457E-AEA3-5639B2A6168F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.DestinationMapper", "05.DestinationMapper\05.DestinationMapper.csproj", "{2A5EE217-1505-457E-AEA3-5639B2A6168F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MirrorWords", "08.MirrorWords\08.MirrorWords.csproj", "{89B54A62-0D32-469A-803C-9C59E1C9690C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.MirrorWords", "08.MirrorWords\08.MirrorWords.csproj", "{89B54A62-0D32-469A-803C-9C59E1C9690C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.NeedForSpeedIII", "09.NeedForSpeedIII\09.NeedForSpeedIII.csproj", "{12724956-0B45-4C7A-953D-A21B6BFBAC90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PasswordReset", "10.PasswordReset\10.PasswordReset.csproj", "{FBEFD8DE-2C4E-452D-A155-ACB19AE65843}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{89B54A62-0D32-469A-803C-9C59E1C9690C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89B54A62-0D32-469A-803C-9C59E1C9690C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89B54A62-0D32-469A-803C-9C59E1C9690C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12724956-0B45-4C7A-953D-A21B6BFBAC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12724956-0B45-4C7A-953D-A21B6BFBAC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12724956-0B45-4C7A-953D-A21B6BFBAC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12724956-0B45-4C7A-953D-A21B6BFBAC90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEFD8DE-2C4E-452D-A155-ACB19AE65843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEFD8DE-2C4E-452D-A155-ACB19AE65843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEFD8DE-2C4E-452D-A155-ACB19AE65843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEFD8DE-2C4E-452D-A155-ACB19AE65843}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
