@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\bin\Debug\netcoreapp3.1\18. DegustationParty.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\bin\Debug\netcoreapp3.1\18. DegustationParty.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\bin\Debug\netcoreapp3.1\18. DegustationParty.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\bin\Debug\netcoreapp3.1\18. DegustationParty.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\bin\Debug\netcoreapp3.1\18. DegustationParty.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\bin\Debug\netcoreapp3.1\18. DegustationParty.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\obj\Debug\netcoreapp3.1\18. DegustationParty.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\obj\Debug\netcoreapp3.1\18. DegustationParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\obj\Debug\netcoreapp3.1\18. DegustationParty.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\obj\Debug\netcoreapp3.1\18. DegustationParty.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\obj\Debug\netcoreapp3.1\18. DegustationParty.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\obj\Debug\netcoreapp3.1\18. DegustationParty.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\obj\Debug\netcoreapp3.1\18. DegustationParty.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\17. DegustationParty\obj\Debug\netcoreapp3.1\18. DegustationParty.genruntimeconfig.cache

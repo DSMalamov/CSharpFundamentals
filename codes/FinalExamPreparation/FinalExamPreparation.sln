@@ -29,9 +29,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.DestinationMapper", "05.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.MirrorWords", "08.MirrorWords\08.MirrorWords.csproj", "{89B54A62-0D32-469A-803C-9C59E1C9690C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.NeedForSpeedIII", "09.NeedForSpeedIII\09.NeedForSpeedIII.csproj", "{12724956-0B45-4C7A-953D-A21B6BFBAC90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.NeedForSpeedIII", "09.NeedForSpeedIII\09.NeedForSpeedIII.csproj", "{12724956-0B45-4C7A-953D-A21B6BFBAC90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PasswordReset", "10.PasswordReset\10.PasswordReset.csproj", "{FBEFD8DE-2C4E-452D-A155-ACB19AE65843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.PasswordReset", "10.PasswordReset\10.PasswordReset.csproj", "{FBEFD8DE-2C4E-452D-A155-ACB19AE65843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.DecryptingCommands", "16.DecryptingCommands\16.DecryptingCommands.csproj", "{C0617D21-A235-4364-A961-0C3B6539FA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.EasterEggs", "17.EasterEggs\17.EasterEggs.csproj", "{63E15518-0121-4D64-AACE-99DF0240BC88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. DegustationParty", "17. DegustationParty\18. DegustationParty.csproj", "{2A225451-2C35-4EA7-A46D-0E46CAE889A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +105,18 @@ Global
 		{FBEFD8DE-2C4E-452D-A155-ACB19AE65843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBEFD8DE-2C4E-452D-A155-ACB19AE65843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBEFD8DE-2C4E-452D-A155-ACB19AE65843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0617D21-A235-4364-A961-0C3B6539FA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0617D21-A235-4364-A961-0C3B6539FA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0617D21-A235-4364-A961-0C3B6539FA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0617D21-A235-4364-A961-0C3B6539FA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E15518-0121-4D64-AACE-99DF0240BC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E15518-0121-4D64-AACE-99DF0240BC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E15518-0121-4D64-AACE-99DF0240BC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E15518-0121-4D64-AACE-99DF0240BC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A225451-2C35-4EA7-A46D-0E46CAE889A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A225451-2C35-4EA7-A46D-0E46CAE889A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A225451-2C35-4EA7-A46D-0E46CAE889A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A225451-2C35-4EA7-A46D-0E46CAE889A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

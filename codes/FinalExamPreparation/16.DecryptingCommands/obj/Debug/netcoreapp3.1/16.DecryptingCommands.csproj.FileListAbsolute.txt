@@ -1,0 +1,14 @@
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\bin\Debug\netcoreapp3.1\16.DecryptingCommands.exe
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\bin\Debug\netcoreapp3.1\16.DecryptingCommands.deps.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\bin\Debug\netcoreapp3.1\16.DecryptingCommands.runtimeconfig.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\bin\Debug\netcoreapp3.1\16.DecryptingCommands.runtimeconfig.dev.json
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\bin\Debug\netcoreapp3.1\16.DecryptingCommands.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\bin\Debug\netcoreapp3.1\16.DecryptingCommands.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\obj\Debug\netcoreapp3.1\16.DecryptingCommands.csproj.AssemblyReference.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\obj\Debug\netcoreapp3.1\16.DecryptingCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\obj\Debug\netcoreapp3.1\16.DecryptingCommands.AssemblyInfoInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\obj\Debug\netcoreapp3.1\16.DecryptingCommands.AssemblyInfo.cs
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\obj\Debug\netcoreapp3.1\16.DecryptingCommands.csproj.CoreCompileInputs.cache
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\obj\Debug\netcoreapp3.1\16.DecryptingCommands.dll
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\obj\Debug\netcoreapp3.1\16.DecryptingCommands.pdb
+C:\Users\Dragomir Malamov\Desktop\programing\C# fundamentals\FinalExamPreparation\16.DecryptingCommands\obj\Debug\netcoreapp3.1\16.DecryptingCommands.genruntimeconfig.cache
